@@ -1,0 +1,6 @@
+three type of access modifier..
+1. Public-> outside class we can use this.
+2. Private-> inside class we can only use.
+By default the private access modifier.
+
+3. Protected..
